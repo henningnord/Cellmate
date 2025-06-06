@@ -17,9 +17,9 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 |------|----------------|------------|
 | ![Kartvisning](screenshots/map.png) | ![Brukerinndata](screenshots/userinp.png) | ![Statistikk](screenshots/stat.png) |
 
-| Investering | Verdi | Strøm og Sol |
+| Investering | Verdi | Strøm|
 |-------------|-------|---------------|
-| ![Investering](screenshots/investment.png) | ![Verdi](screenshots/value.png) | ![Strøm](screenshots/electricity.png)<br>![Sol](screenshots/sun.png) |
+| ![Investering](screenshots/investment.png) | ![Verdi](screenshots/value.png) | ![Strøm](screenshots/electricity.png) |
 
 | Informasjon | Enova | Panelvalg |
 |-------------|--------|------------|
