@@ -24,17 +24,11 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 | Informasjon | Enova | Panelvalg |
 |-------------|--------|------------|
 | ![Info](screenshots/info.png) | ![Enova](screenshots/enova.png) | ![Paneler](screenshots/panels.png) |
+
+
 ## Hvordan kjøre appen
 
-### Alternativ 1: Du har allerede prosjektmappen lokalt
-
-1. Åpne **Android Studio**.
-2. Velg **"Open"** og finn mappen der prosjektet ligger.
-3. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
-
----
-
-### Alternativ 2: Du må først laste ned prosjektet fra GitHub
+## Last ned fra GitHub
 
    1. Åpne terminalen på din PC eller Mac.
    2. Naviger til området der du ønsker at prosjektet skal ligge.
@@ -43,7 +37,8 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
       `git clone https://github.uio.no/IN2000-V25/team-10.git`
    5. Trykk **Enter** og vent til prosjektet er ferdig nedlastet.
    6. Åpne **Android Studio** og velg `Open` fra plasseringen til prosjektet.
-   7. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
+   7. Legg inn dine egne API-nøkler for Frost, Solar, OpenAI og Mapbox i settings.gradle for at appen skal fungere.
+   8. Trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
 
 ## Emulator -og Android Studio innstillinger
 
