@@ -10,7 +10,21 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 - Viser addresse i et interaktivt kart (Mapbox). 
 - Lagrer en addresse-profil med brukeroppgitt boliginformasjon og relevante værdata. 
 - Integrerer ulike API-er for å kunne gi relevant brukerinformasjon og detaljert statistikk. 
+## 📱 Skjermbilder
 
+| Brukerinput | Solforhold | Statistikk |
+|-------------|------------|------------|
+| ![user input](screenshots/userinp.png) | ![sun](screenshots/sun.png) | ![stat](screenshots/stat.png) |
+
+| Kart | Panelvalg | Investering |
+|------|-----------|-------------|
+| ![map](screenshots/map.png) | ![panels](screenshots/panels.png) | ![investment](screenshots/investment.png) |
+
+| Strømforbruk | Enova-støtte | Info og verdi |
+|---------------|---------------|----------------|
+| ![electricity](screenshots/electricity.png) | ![enova](screenshots/enova.png) | ![info](screenshots/info.png) ![value](screenshots/value.png) |
+
+---
 ## Hvordan kjøre appen
 
 ### Alternativ 1: Du har allerede prosjektmappen lokalt
