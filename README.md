@@ -10,7 +10,7 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 - Viser addresse i et interaktivt kart (Mapbox). 
 - Lagrer en addresse-profil med brukeroppgitt boliginformasjon og relevante værdata. 
 - Integrerer ulike API-er for å kunne gi relevant brukerinformasjon og detaljert statistikk.
--  
+
 ## Skjermbilder
 
 | Kart | Brukerinndata | Statistikk |
