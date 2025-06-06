@@ -13,7 +13,15 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 
 ## Hvordan kjøre appen
 
-### Du må først laste ned prosjektet fra GitHub
+### Alternativ 1: Du har allerede prosjektmappen lokalt
+
+1. Åpne **Android Studio**.
+2. Velg **"Open"** og finn mappen der prosjektet ligger.
+3. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
+
+---
+
+### Alternativ 2: Du må først laste ned prosjektet fra GitHub
 
    1. Åpne terminalen på din PC eller Mac.
    2. Naviger til området der du ønsker at prosjektet skal ligge.
@@ -22,8 +30,7 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
       `git clone https://github.uio.no/IN2000-V25/team-10.git`
    5. Trykk **Enter** og vent til prosjektet er ferdig nedlastet.
    6. Åpne **Android Studio** og velg `Open` fra plasseringen til prosjektet.
-   7. Deretter må du legge inn egne API-nøkler i `FrostDataSource`, `SolarDataSorce`, `OpenAIDatasource`, og for Mapbox i `settings.gradle`.
-   8. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
+   7. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
 
 ## Emulator -og Android Studio innstillinger
 
